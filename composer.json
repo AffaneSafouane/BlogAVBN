@@ -1,0 +1,15 @@
+{
+    "name": "safou/blog-mvc",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Safouane Affane",
+            "email": "safouane200403@hotmail.com"
+        }
+    ],
+    "require": {}
+}
